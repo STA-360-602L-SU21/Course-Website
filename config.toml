@@ -28,45 +28,51 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Your profile picture
   picture = "img/avatar-icon.jpg"
   #twitter = "Akande_OM"
- 
-# Menu Configuration
-[[menu.main]]
-  weight = 1
-  identifier = "home"
-  name = "Home"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
-  url = "/"
-[[menu.main]]
-  weight = 2
-  identifier = "syllabus_pdf"
-  name = "Syllabus"
-  pre = "<i class=\"material-icons\">book</i>"
-  url = "syllabus_pdf/Syllabus.pdf"
-[[menu.main]]
-  weight = 3
-  identifier = "syllabus"
-  name = "Class Schedule"
-  pre = "<i class=\"material-icons\">date_range</i>"
-  url = "/syllabus"
-[[menu.main]]
-  weight = 4
-  identifier = "policies"
-  name = "Policies"
-  pre = "<i class=\"material-icons\">gavel</i>"
-  url = "/policies"
-[[menu.main]]
-  weight = 5
-  identifier = "resources"
-  name = "Resources"
-  pre = "<i class=\"material-icons\">folder_shared</i>"
-  url = "/resources"
-[[menu.main]]
-  weight = 6
-  identifier = "gradescope"
-  name = "Gradescope"
-  pre = "<i class=\"material-icons\">assignment</i>"
-  url = "https://www.gradescope.com/courses/190490/assignments"
-  
+
+  # Menu Configuration
+  [[menu.main]]
+    weight = 1
+    identifier = "home"
+    name = "Home"
+    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
+    url = "/"
+  [[menu.main]]
+    weight = 2
+    identifier = "syllabus_360_pdf"
+    name = "STA 360 Syllabus"
+    pre = "<i class=\"material-icons\">book</i>"
+    url = "syllabus_360_pdf/Syllabus_360.pdf"
+  [[menu.main]]
+    weight = 3
+    identifier = "syllabus_602_pdf"
+    name = "STA 602L Syllabus"
+    pre = "<i class=\"material-icons\">book</i>"
+    url = "syllabus_602_pdf/Syllabus_602.pdf"
+  [[menu.main]]
+    weight = 4
+    identifier = "syllabus"
+    name = "Class Schedule"
+    pre = "<i class=\"material-icons\">date_range</i>"
+    url = "/syllabus"
+  [[menu.main]]
+    weight = 5
+    identifier = "policies"
+    name = "Policies"
+    pre = "<i class=\"material-icons\">gavel</i>"
+    url = "/policies"
+  [[menu.main]]
+    weight = 6
+    identifier = "resources"
+    name = "Resources"
+    pre = "<i class=\"material-icons\">folder_shared</i>"
+    url = "/resources"
+  [[menu.main]]
+    weight = 7
+    identifier = "gradescope"
+    name = "Gradescope"
+    pre = "<i class=\"material-icons\">assignment</i>"
+    url = "https://www.gradescope.com/courses/141314/assignments"
+
 
 [[menu.footer]]
   weight = 1
@@ -96,5 +102,5 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   dateFormat = "January 2, 2006"
-  background = "https://akandelanre.github.io./img/STA 602L Spring_2021_background_image.png" 
+  background = "https://akandelanre.github.io./img/STA 602L Spring_2021_background_image.png"
   #favicon = "https://akandelanre.github.io./mids_duke_logo.png"
