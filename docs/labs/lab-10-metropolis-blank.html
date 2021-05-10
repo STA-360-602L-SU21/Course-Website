@@ -406,16 +406,16 @@ y_i &amp;\sim \text{Multinomial} \left( \frac{e^{ \boldsymbol{x}_i^T \boldsymbol
 <pre><code>##             Reference
 ## Prediction   setosa versicolor virginica
 ##   setosa         50          0         0
-##   versicolor      0         38         4
-##   virginica       0         12        46</code></pre>
+##   versicolor      0         35         8
+##   virginica       0         15        42</code></pre>
 <div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>Conf_mat<span class="sc">$</span>overall[<span class="st">&quot;Accuracy&quot;</span>];</span></code></pre></div>
 <pre><code>## Accuracy 
-##     0.89</code></pre>
+##     0.85</code></pre>
 <div class="sourceCode" id="cb12"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a>Conf_mat<span class="sc">$</span>byClass[,<span class="fu">c</span>(<span class="st">&quot;Sensitivity&quot;</span>,<span class="st">&quot;Specificity&quot;</span>)]</span></code></pre></div>
 <pre><code>##                   Sensitivity Specificity
 ## Class: setosa            1.00        1.00
-## Class: versicolor        0.76        0.96
-## Class: virginica         0.92        0.88</code></pre>
+## Class: versicolor        0.70        0.92
+## Class: virginica         0.84        0.85</code></pre>
 <div id="laplace-prior" class="section level2">
 <h2>Laplace prior</h2>
 <p>Above, we used a normal prior. In general, we saw that the coefficients corresponding to the simulated predictors had values that were small, as desired. What if we used a prior that placed higher density at zero? Would we see different shrinkage effects?</p>
