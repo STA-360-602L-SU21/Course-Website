@@ -1,9 +1,9 @@
 ---
-markup: "mmark"
+markup: mmark
 ---
 
 ### Course Overview
-Bayesian methods are increasingly important in both industry and academia. This is a graduate-level course that introduces students to the basics of Bayesian inference and provides students with the tools needed to fit Bayesian models.
+Bayesian methods are increasingly important in both industry and academia. This is an upper level undergraduate-course for students registered in STA 360, and a graduate-level course for students registered in STA 602. This is primarily an asynchronous online course, so that students are able to participate according to their own schedule (for the most part). That said, the course is designed to align with the standard six-week Term I schedule of the summer school calendar. Therefore, there will be set deadlines to ensure that all course materials and assessments are completed in six weeks.
 
 In this course, you will learn the importance of Bayesian methods and inference. You will be introduced to Bayesian theory, with particular emphasis on conceptual foundations as well as implementation and model fitting. You will learn the essential distinctions between classical and Bayesian methods and become familiar with the origins of Bayesian inference. You will also learn about conjugate families of distributions and why they are very convenient, and how to conduct Bayesian inference with intractable posterior distributions,  when you do not have conjugate distributions.
 
@@ -25,36 +25,37 @@ By the end of this course, students should be able to
 
 ### Course Info
 
-#### Meeting Times
-<font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; **Tuesdays and Thursdays (10:15am - 11:30am)**
+### Playposit
 
-<font color="#6CA0DC"><i class="fas fa-university fa-lg"></i></font> &nbsp; Zoom Meeting ID: **See Sakai**.</font>
-
-
-#### Labs
-
-##### Section 01:
-<font color="#6CA0DC"><i class="fas fa-user fa-lg"></i></font> &nbsp; **[Ziang Wang](https://scholars.duke.edu/person/ziang.wang)**
-
-<font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; **Mondays (12:00pm - 1:15pm)**
-
-<font color="#6CA0DC"><i class="fas fa-university fa-lg"></i></font> &nbsp; Zoom Meeting ID: **See Sakai**
-
-##### Section 02:
-<font color="#6CA0DC"><i class="fas fa-user fa-lg"></i></font> &nbsp; **[Jennifer Kampe](https://scholars.duke.edu/person/jennifer.kampe)**
-
-<font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; **Mondays (1:45pm - 3:00pm)**
-
-<font color="#6CA0DC"><i class="fas fa-university fa-lg"></i></font> &nbsp; Zoom Meeting ID: **See Sakai**
-
-**Recordings will be made available afterwards for students who are unable not to attend the live sessions.**
-
-
-#### Playposit
-To gain access to the pre-recorded lecture videos, you will have to create a Playposit account. There are participation quizzes embedded within the videos. These quizzes make up a part of your final grade (see: [course policies](https://sta-602l-s21.github.io/Course-Website/policies/}{course policies)) so take them seriously. To join the class on Playposit, you first need to create a new account as a student [here](https://www.playposit.com/join). Next, you will use the class link, which I will send out via email, to join the class site. While you need not create an account with your Duke email, I strongly suggest you do.
+To gain access to the pre-recorded lecture videos, you will have to enroll in Playposit via Duke. There are participation quizzes embedded within the videos. These quizzes make up 5% of your final grade (see: [course policies](https://sta-360-602l-su21.github.io/Course-Website/policies/)) so take them seriously. To join the class on Playposit, you need create a new account as a student [here](https://www.playposit.com/join).  Next, you will use the class link, which I will send out via email, to join the class site.
 
 #### Zoom meetings
+
 The easiest way for you to join the different Zoom meetings is to log in to Sakai, go to the "Zoom meetings" tab, and click "Upcoming Meetings". For the recordings (for lab and discussion sessions), also log in to Sakai, go to the "Zoom meetings" tab, and click "Cloud Recordings". Those will be available few minutes after the sessions.
+
+#### Meeting Times
+
+There will be no **fully synchronous** meetings. There will be pre-recorded lecture videos for each topic. There will be Zoom discussion sessions every day (see below for times), but those will be recorded and shared with all students. Students are **strongly encouraged** to attend the live sessions and ask questions but students who prefer not to can watch the recordings.
+
+<font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; Monday - Friday: 10:00am - 11:00am
+
+<font color="#6CA0DC"><i class="fas fa-university fa-lg"></i></font> &nbsp; Zoom Meeting ID: **See Sakai**.</font>  
+
+#### Online Labs
+
+These are live **optional** lab sessions on Zoom  for students who wish to attend. Recordings will be made available afterwards for students who prefer not to.
+
+<font color="#6CA0DC"><i class="fas fa-user fa-lg"></i></font> &nbsp; [TBD](https://stat.duke.edu/people)
+
+##### Wednesdays:
+<font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; 5:00pm - 6:15pm
+
+<font color="#6CA0DC"><i class="fas fa-university fa-lg"></i></font> &nbsp; Zoom Meeting ID: **See Sakai**
+
+##### Fridays:
+<font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; 5:00pm - 6:15pm
+
+<font color="#6CA0DC"><i class="fas fa-university fa-lg"></i></font> &nbsp; Zoom Meeting ID: **See Sakai**
 
 
 ### Teaching Team and Office Hours 
@@ -62,9 +63,8 @@ The easiest way for you to join the different Zoom meetings is to log in to Saka
 {.table .table-condensed .table-striped .text-left}
 <span></span>     | <span></span>     | <span></span>    | <span></span>    |  <span></span>      
 ------------------|-------------------|------------------|------------------|------------------ 
-Instructor        | [Dr. Olanrewaju Michael Akande](https://akandelanre.github.io.) | <a href="mailto:olanrewaju.akande@duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/akandelanre" title="GitHub"><i class="fa fa-github"></i></a> | Mondays: 6:00pm - 7:00pm <br /> Thursdays: 9:00am - 10:00am | Zoom Meeting ID: **See Sakai**
-TA               | [Jennifer Kampe](https://scholars.duke.edu/person/jennifer.kampe) | <a href="mailto:jennifer.kampe@duke.edu" title="email"><i class="fa fa-envelope"></i></a> | Tuesdays: 5:00pm - 6:30pm <br /> Fridays: 5:00pm - 6:30pm | Zoom Meeting ID: **See Sakai**
-                 | [Ziang Wang](https://scholars.duke.edu/person/ziang.wang) | <a href="mailto:ziang.wang@duke.edu" title="email"><i class="fa fa-envelope"></i></a> | Wednesdays: 3:00pm - 5:00pm <br /> Thursdays: 3:00pm - 4pm | Zoom Meeting ID: **See Sakai**
+Instructor        | [Dr. Olanrewaju Michael Akande](https://akandelanre.github.io.) | <a href="mailto:olanrewaju.akande@duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/akandelanre" title="GitHub"><i class="fa fa-github"></i></a> | Mondays: 6:00pm - 7:00pm <br /> Thursdays: 9:00am - 10:00am | Zoom Meeting ID: **See Sakai** <br /> Zoom Meeting ID: **See Sakai** <br /> Zoom Meeting ID: **See Sakai**
+TA               | TBD | TBD | TBD | TBD
 
 
 ### Texts
@@ -78,7 +78,7 @@ TA               | [Jennifer Kampe](https://scholars.duke.edu/person/jennifer.ka
 
 ### Materials
 
-Lecture notes and slides, lab exercises and assigned readings will be posted on the course website, while lecture and lab videos will be posted on Sakai. White boards will also be used frequently in the lecture videos, so please pay special attention to those. Finally, we will closely follow the main textbook so students should make sure to always read the corresponding textbook chapters in the assigned readings.
+Lecture notes and slides, lab exercises and assigned readings will be posted on the course website, while discussion and lab videos will be posted on Sakai (Zoom via Sakai). Lecture videos will be posted on Playposit. White boards will also be used frequently in the lecture videos, so please pay special attention to those. Finally, we will closely follow the main textbook so students should make sure to always read the corresponding textbook chapters in the assigned readings.
 
 
 ### Important Dates
@@ -86,31 +86,25 @@ Lecture notes and slides, lab exercises and assigned readings will be posted on 
 {.table .table-condensed .table-striped .text-left}
  <span></span>     | <span></span>
 -----------|---------------------------------
-Wed, January 20 | Classes begin
-Tue, February 2 | Drop/Add ends
-Thur, February 11 | Quiz I day (*tentative*)
-Tue - Wed, March 9 - 10	| No classes held
-Mon, March 15 | Midterm exam day (*tentative*)
-Thur, April 8 | Quiz II day (*tentative*)
-Mon, April 12	| Wellness day
-Fri, April 23 | Classes end
-Fri - Sat, April 30 - May 1 | Final exam period
+Wed, May 12 | Classes begin
+Fri, May 14 | Drop/Add for Term I ends
+Thurs, May 20 | Quiz I day
+Tues, June 1 | Midterm exam day
+Mon, May 31 | Memorial day (no classes held)
+Wed, June 9 | Last day to withdraw with W
+Fri, June 11 | Quiz II day
+Mon, June 21 | Classes end
+Wed, June 23 - Thurs June 24 | Final exam period
 
-
-### Wellness day
-
-In lieu of a traditional class meeting on April 12, 2021, please use our regular class time to engage in reflection and wellness endeavors. A list of wellness strategies and programs is available at https://studentaffairs.duke.edu/duwell/wellness-day-2021.
-
-Although the goal of Wellness Day 2021 is to provide time and space to engage in activities that enhance your well-being, please remember that wellness isn’t achieved in one day.  Learning to balance your personal, professional, and academic commitments is a skill that should be practiced regularly and over time.
 
 
 
 ### Green Classroom
 
 <img style="float: left;" src="/img/DukeGreenClassroomCertification-Logo.png">
-This course has achieved Duke’s Green Classroom Certification. The certification indicates that the faculty member teaching this course has taken significant steps to green the delivery of this course. Your faculty member has completed a checklist indicating their common practices in areas of this course that have an environmental impact, such as paper and energy consumption. Some common practices implemented by faculty to reduce the environmental impact of their course include allowing electronic submission of assignments, providing online readings and turning off lights and electronics in the classroom when they are not in use. The eco-friendly aspects of course delivery may vary by faculty, by course and throughout the semester. Learn more at [https://sustainability.duke.edu/action/certification](https://sustainability.duke.edu/action/certification).
+This course has achieved Duke’s Green Classroom Certification. The certification indicates that the faculty member teaching this course has taken significant steps to green the delivery of this course. Your faculty member has completed a checklist indicating their common practices in areas of this course that have an environmental impact, such as paper and energy consumption. Some common practices implemented by faculty to reduce the environmental impact of their course include allowing electronic submission of assignments, providing online readings and turning off lights and electronics in the classroom when they are not in use. The eco-friendly aspects of course delivery may vary by faculty, by course and throughout the semester. Learn more at [http://sustainability.duke.edu/action/certifications/classroom/index.php](http://sustainability.duke.edu/action/certifications/classroom/index.php).
 
 ### Acknowledgement
 
-This web page contains materials such as lecture slides, homework assignments, and datasets developed or adapted by [Dr. Alexander Volfovsky](https://scholars.duke.edu/person/alexander.volfovsky), [Dr. David B. Dunson](https://scholars.duke.edu/person/dunson) and [Dr. Rebecca Carter Steorts](https://scholars.duke.edu/person/beka).
+This web page contains materials such as lecture slides, homework assignments, and datasets developed or adapted by [Dr. Alexander Volfovsky](https://stat.duke.edu/people/alexander-volfovsky), [Dr. David B. Dunson](https://stat.duke.edu/people/david-b-dunson) and [Dr. Rebecca Carter Steorts](https://stat.duke.edu/people/rebecca-carter-steorts).
 
