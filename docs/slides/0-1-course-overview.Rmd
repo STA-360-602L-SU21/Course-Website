@@ -87,20 +87,14 @@ A Bayesian version will usually make things better...
 <i class="fa fa-university"></i> &nbsp; See course website
 
 
-<!-- --- -->
-<!-- ## TAs -->
+---
+## TA
 
-<!-- [Jennifer Kampe](https://scholars.duke.edu/person/jennifer.kampe) -->
+[Yunran Chen](https://yunranchen.github.io/)
 
-<!-- <i class="fa fa-envelope"></i> &nbsp; [jennifer.kampe@duke.edu](mailto:jennifer.kampe@duke.edu) <br> -->
-<!-- <i class="fa fa-calendar"></i> &nbsp; See course website <br> -->
-<!-- <i class="fa fa-university"></i> &nbsp; See course website <br> -->
-
-<!-- [Ziang Wang](https://scholars.duke.edu/person/ziang.wang) -->
-
-<!-- <i class="fa fa-envelope"></i> &nbsp; [ziang.wang@duke.edu](mailto:ziang.wang@duke.edu) <br> -->
-<!-- <i class="fa fa-calendar"></i> &nbsp; See course website <br> -->
-<!-- <i class="fa fa-university"></i> &nbsp; See course website -->
+<i class="fa fa-envelope"></i> &nbsp; [yunran.chen@duke.edu](mailto:yunran.chen@duke.edu) <br>
+<i class="fa fa-calendar"></i> &nbsp; See course website <br>
+<i class="fa fa-university"></i> &nbsp; See course website <br>
 
 
 

@@ -64,7 +64,7 @@ These are live **optional** lab sessions on Zoom  for students who wish to atten
 <span></span>     | <span></span>     | <span></span>    | <span></span>    |  <span></span>      
 ------------------|-------------------|------------------|------------------|------------------ 
 Instructor        | [Dr. Olanrewaju Michael Akande](https://akandelanre.github.io.) | <a href="mailto:olanrewaju.akande@duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/akandelanre" title="GitHub"><i class="fa fa-github"></i></a> | Mondays: 6:00pm - 7:00pm <br /> Thursdays: 9:00am - 10:00am | Zoom Meeting ID: **See Sakai** <br /> Zoom Meeting ID: **See Sakai** <br /> Zoom Meeting ID: **See Sakai**
-TA               | TBD | TBD | TBD | TBD
+TA               | [Yunran Chen](https://yunranchen.github.io/) | <a href="mailto:yunran.chen@duke.edu" title="email"><i class="fa fa-envelope"></i></a> | Tuesdays: 6:00pm - 7:00pm <br /> Wednesdays: 9:00am - 10:00am <br /> Fridays: 4:00pm - 5:00pm | Zoom Meeting ID: **See Sakai**
 
 
 ### Texts
