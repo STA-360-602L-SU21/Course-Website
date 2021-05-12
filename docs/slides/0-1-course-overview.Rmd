@@ -93,6 +93,7 @@ A Bayesian version will usually make things better...
 [Yunran Chen](https://yunranchen.github.io/)
 
 <i class="fa fa-envelope"></i> &nbsp; [yunran.chen@duke.edu](mailto:yunran.chen@duke.edu) <br>
+<i class="fa fa-home"></i> &nbsp; [yunranchen.github.io](yunranchen.github.io) <br>
 <i class="fa fa-calendar"></i> &nbsp; See course website <br>
 <i class="fa fa-university"></i> &nbsp; See course website <br>
 
@@ -186,7 +187,7 @@ class: center, middle
 
 --
 
-- Confirm that you have access to Sakai, Piazza and Gradescope.
+- Confirm that you have access to Sakai, PlayPosit, Ed Discussion and Gradescope.
 
 
 

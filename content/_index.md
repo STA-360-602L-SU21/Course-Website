@@ -25,14 +25,6 @@ By the end of this course, students should be able to
 
 ### Course Info
 
-### Playposit
-
-To gain access to the pre-recorded lecture videos, you will have to enroll in Playposit via Duke. There are participation quizzes embedded within the videos. These quizzes make up 5% of your final grade (see: [course policies](https://sta-360-602l-su21.github.io/Course-Website/policies/)) so take them seriously. To join the class on Playposit, you need create a new account as a student [here](https://www.playposit.com/join).  Next, you will use the class link, which I will send out via email, to join the class site.
-
-#### Zoom meetings
-
-The easiest way for you to join the different Zoom meetings is to log in to Sakai, go to the "Zoom meetings" tab, and click "Upcoming Meetings". For the recordings (for lab and discussion sessions), also log in to Sakai, go to the "Zoom meetings" tab, and click "Cloud Recordings". Those will be available few minutes after the sessions.
-
 #### Meeting Times
 
 There will be no **fully synchronous** meetings. There will be pre-recorded lecture videos for each topic. There will be Zoom discussion sessions every day (see below for times), but those will be recorded and shared with all students. Students are **strongly encouraged** to attend the live sessions and ask questions but students who prefer not to can watch the recordings.
@@ -41,21 +33,24 @@ There will be no **fully synchronous** meetings. There will be pre-recorded lect
 
 <font color="#6CA0DC"><i class="fas fa-university fa-lg"></i></font> &nbsp; Zoom Meeting ID: **See Sakai**.</font>  
 
-#### Online Labs
+#### Labs
 
-These are live **optional** lab sessions on Zoom  for students who wish to attend. Recordings will be made available afterwards for students who prefer not to.
+<font color="#6CA0DC"><i class="fas fa-user fa-lg"></i></font> &nbsp; **[Yunran Chen](https://yunranchen.github.io/)**
 
-<font color="#6CA0DC"><i class="fas fa-user fa-lg"></i></font> &nbsp; [TBD](https://stat.duke.edu/people)
-
-##### Wednesdays:
-<font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; 5:00pm - 6:15pm
+<font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; **Wednesdays and Fridays (5:00pm - 6:15pm)**
 
 <font color="#6CA0DC"><i class="fas fa-university fa-lg"></i></font> &nbsp; Zoom Meeting ID: **See Sakai**
 
-##### Fridays:
-<font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; 5:00pm - 6:15pm
+**Recordings will be made available afterwards for students who are unable not to attend the live sessions.**
 
-<font color="#6CA0DC"><i class="fas fa-university fa-lg"></i></font> &nbsp; Zoom Meeting ID: **See Sakai**
+
+### Playposit
+
+To gain access to the pre-recorded lecture videos, you will have to enroll in Playposit via Duke. There are participation quizzes embedded within the videos. These quizzes make up 5% of your final grade (see: [course policies](https://sta-360-602l-su21.github.io/Course-Website/policies/)) so take them seriously. To join the class on Playposit, you need create a new account as a student [here](https://www.playposit.com/join).  Next, you will use the class link, which I will send out via email, to join the class site.
+
+#### Zoom meetings
+
+The easiest way for you to join the different Zoom meetings is to log in to Sakai, go to the "Zoom meetings" tab, and click "Upcoming Meetings". For the recordings (for lab and discussion sessions), also log in to Sakai, go to the "Zoom meetings" tab, and click "Cloud Recordings". Those will be available few minutes after the sessions.
 
 
 ### Teaching Team and Office Hours 
