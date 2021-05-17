@@ -12,7 +12,7 @@ PlotPriorPlusPosterior <- function(a,b,ones,zeros){
   points(t(p), pch=16)
   text(t(p), eval(expression(paste("Post. Mean = ",round(post_mean,3)))), adj=-0.05)
 }
-PlotPriorPlusPosterior(a=2,b=25,ones=100,zeros=1000)
+PlotPriorPlusPosterior(a=10,b=1,ones=100,zeros=900)
 
 set.seed(360602)
 n <- 300
@@ -26,16 +26,16 @@ for(i in 1:n){
   if(y[i]==1){
     ones <- ones + 1
   } else {zeros <- zeros + 1}
-  PlotPriorPlusPosterior(a=2,b=25,ones,zeros)
+  PlotPriorPlusPosterior(a=7,b=1,ones,zeros)
   points(t(c(0.75, 8)), pch=16)
   text(t(c(0.75, 8)), paste("Observation",i," = ",y[i]), adj=-0.05)
-  if(i < 8){
-    Sys.sleep(5)
+  if(i < 6){
+    Sys.sleep(4)
   }
-  if(i > 8 & i < 25){
-    Sys.sleep(2)
+  if(i > 6 & i < 20){
+    Sys.sleep(1.5)
   }
-  if(i > 25){
+  if(i > 20){
     Sys.sleep(0.05)
   }
 }
