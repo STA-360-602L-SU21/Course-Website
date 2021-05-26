@@ -245,6 +245,10 @@ lessons:
     slidespdf: "4-2-multivariate-normal-II.pdf"
     video: "https://api.playposit.com/go/play/753022/1403540/1070265/0/Module-42-Multivariate-normal-model-II"
     
+  - date: " "
+    title: "Homework 3"
+    hw: "hw-03.html"
+    
   - date: "Fri, May 28"
     title: "Review for midterm exam"
     
