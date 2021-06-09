@@ -334,7 +334,7 @@ lines(density(post_pred[,"Swimmer 4"]),lwd=1.5)
 ---
 ## Posterior predictive inference
 
-```{r, fig.height=4.8, echo=F}
+```{r, fig.height=4.8, echo=F, cache=T}
 x_new <- matrix(c(1,(14-mean(W))),ncol=1)
 post_pred <- matrix(0,nrow=n_iter,ncol=n_swimmers)
 for(j in 1:n_swimmers){

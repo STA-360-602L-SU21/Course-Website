@@ -335,7 +335,7 @@ summary(Y)
 ---
 ## Reading example: data
 
-```{r fig.height=4.5, echo=F}
+```{r fig.height=4.5, echo=F, cache=T}
 plot(Y[,2]~Y[,1],xlab="pre-test",ylab="post-test",col="darkred",pch=11)
 ```
 
@@ -343,7 +343,7 @@ plot(Y[,2]~Y[,1],xlab="pre-test",ylab="post-test",col="darkred",pch=11)
 ---
 ## Reading example: data
 
-```{r fig.height=4.5, echo=F}
+```{r fig.height=4.5, echo=F, cache=T}
 Y.kde <- kde2d(Y[,1], Y[,2], n = 20)
 image(Y.kde,xlab="pre-test",ylab="post-test")
 contour(Y.kde, add = T)

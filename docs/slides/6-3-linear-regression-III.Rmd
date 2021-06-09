@@ -285,7 +285,7 @@ pairs((Data[,c("COST","GS","AGE")]), panel=panel.smooth,diag.panel=panel.hist)
 ---
 ## Very basic EDA
 
-```{r, fig.height=4.3}
+```{r, fig.height=4.3, cache=T}
 levelplot(cor(Data[,c("COST","GS","AGE")])) #Check correlation
 ```
 
@@ -313,7 +313,7 @@ pairs((Data[-19,c("COST","GS","AGE")]), panel=panel.smooth,diag.panel=panel.hist
 ## Very basic EDA
 
 Without outlier:
-```{r, fig.height=4}
+```{r, fig.height=4, cache=T}
 levelplot(cor(Data[-19,c("COST","GS","AGE")])) #Check correlation
 ```
 

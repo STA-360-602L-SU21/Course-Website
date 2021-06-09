@@ -132,7 +132,7 @@ $$\mathbb{E}[\theta] = \mu = \dfrac{a}{b}; \ \ \mathbb{V}[\theta] = \mu \phi = \
 ---
 ## Example gamma distributions
 
-```{r fig.height=4, echo=F}
+```{r fig.height=4, echo=F, cache=T}
 x <- seq(0,5,by=0.00001)
 plot(x,dgamma(x,shape=1,rate=1),xlim=c(0,5),ylim=c(0,1.5),lwd=1.5,type="l",
       col="green3",xlab=expression(theta),ylab="density")

@@ -262,7 +262,7 @@ sigma2N_postsample_impr <- 1/tauN_postsample_impr
 
 - Is the average improvement for the accelerated group larger than that for the no growth group?
   + What is $\Pr[\mu_A > \mu_N | Y_A, Y_N)$?
-  ```{r}
+  ```{r, cache=T}
 mean(thetaA_postsample_impr > thetaN_postsample_impr)
 ```
 
@@ -270,7 +270,7 @@ mean(thetaA_postsample_impr > thetaN_postsample_impr)
 
 - Is the variance of improvement scores for the accelerated group larger than that for the no growth group?
   + What is $\Pr[\sigma^2_A > \sigma^2_N | Y_A, Y_N)$?
-  ```{r}
+  ```{r, cache=T, cache=T}
 mean(sigma2A_postsample_impr > sigma2N_postsample_impr)
 ```
       

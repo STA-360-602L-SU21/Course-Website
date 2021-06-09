@@ -101,7 +101,7 @@ First, a few examples of the bivariate normal distribution.
 \end{eqnarray*}
 ]
 
-```{r fig.height=4, echo=F}
+```{r fig.height=4, echo=F, cache=T}
 Sigma <- matrix(c(1,0,0,1),ncol=2)
 Mu <- c(0,0)
 
@@ -139,7 +139,7 @@ wireframe(z~x+y,data=data.frame(x=x.points,y=rep(y.points, each=length(x.points)
 \end{eqnarray*}
 ]
 
-```{r fig.height=4.3, echo=F}
+```{r fig.height=4.3, echo=F, cache=T}
 sampmat_direct <- rmvnorm(10000, mean = Mu,sigma = Sigma)
 sampmat_direct.kde <- kde2d(sampmat_direct[,1], sampmat_direct[,2], n = 50)
 image(sampmat_direct.kde,xlab=expression(theta[1]),ylab=expression(theta[2]))
@@ -166,7 +166,7 @@ contour(sampmat_direct.kde, add = T)
 \end{eqnarray*}
 ]
 
-```{r fig.height=4, echo=F}
+```{r fig.height=4, echo=F, cache=T}
 Sigma <- matrix(c(1,0.5,0.5,2),ncol=2)
 Mu <- c(0,2)
 
@@ -204,7 +204,7 @@ wireframe(z~x+y,data=data.frame(x=x.points,y=rep(y.points, each=length(x.points)
 \end{eqnarray*}
 ]
 
-```{r fig.height=4.3, echo=F}
+```{r fig.height=4.3, echo=F, cache=T}
 sampmat_direct <- rmvnorm(10000, mean = Mu,sigma = Sigma)
 sampmat_direct.kde <- kde2d(sampmat_direct[,1], sampmat_direct[,2], n = 50)
 image(sampmat_direct.kde,xlab=expression(theta[1]),ylab=expression(theta[2]))
@@ -230,7 +230,7 @@ contour(sampmat_direct.kde, add = T)
 \end{eqnarray*}
 ]
 
-```{r fig.height=4, echo=F}
+```{r fig.height=4, echo=F, cache=T}
 Sigma <- matrix(c(1,0.9,0.9,1.5),ncol=2)
 Mu <- c(1,-1)
 
@@ -268,7 +268,7 @@ wireframe(z~x+y,data=data.frame(x=x.points,y=rep(y.points, each=length(x.points)
 \end{eqnarray*}
 ]
 
-```{r fig.height=4.3, echo=F}
+```{r fig.height=4.3, echo=F, cache=T}
 sampmat_direct <- rmvnorm(10000, mean = Mu,sigma = Sigma)
 sampmat_direct.kde <- kde2d(sampmat_direct[,1], sampmat_direct[,2], n = 50)
 image(sampmat_direct.kde,xlab=expression(theta[1]),ylab=expression(theta[2]))
