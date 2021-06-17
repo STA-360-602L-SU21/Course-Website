@@ -141,14 +141,14 @@ $$
 1. Update `\(U\)`: first, sample `\(u^\star \sim g_u[u^\star | u^{(s)}, v^{(s)}]\)`. Then,
     +  Compute the acceptance ratio
     `$$r = \dfrac{p_0(u^\star, v^{(s)})}{p_0(u^{(s)}, v^{(s)})} \times \dfrac{g_u[u^{(s)} | u^\star, v^{(s)}]}{g_u[u^\star | u^{(s)}, v^{(s)}]}.$$`
-    + Sample `\(w \sim U(0,1)\)`. Set `\(u^{(s+1)}\)` to `\(u^\star\)` if `\(w &lt; r\)`, or set `\(u^{(s+1)}\)` to `\(u^\star\)` otherwise.
+    + Sample `\(w \sim U(0,1)\)`. Set `\(u^{(s+1)}\)` to `\(u^\star\)` if `\(w &lt; r\)`, or set `\(u^{(s+1)}\)` to `\(u^{(s)}\)` otherwise.
   
 --
 
 2. Update `\(V\)`: first sample `\(v^\star \sim g_v[v^\star | u^{(s+1)}, v^{(s)}]\)`. Then,
   +  Compute the acceptance ratio
   `$$r = \dfrac{p_0(u^{(s+1)}, v^\star)}{p_0(u^{(s+1)}, v^{(s)})} \times \dfrac{g_v[v^{(s)} | u^{(s+1)}, v^\star]}{g_v[v^\star | u^{(s+1)}, v^{(s)}]}.$$`
-  + Sample `\(w \sim U(0,1)\)`. Set `\(v^{(s+1)}\)` to `\(v^\star\)` if `\(w &lt; r\)`, or set `\(v^{(s+1)}\)` to `\(v^\star\)` otherwise.
+  + Sample `\(w \sim U(0,1)\)`. Set `\(v^{(s+1)}\)` to `\(v^\star\)` if `\(w &lt; r\)`, or set `\(v^{(s+1)}\)` to `\(v^{(s)}\)` otherwise.
   
   
   
