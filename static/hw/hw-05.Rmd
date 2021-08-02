@@ -79,8 +79,7 @@ with the priors on $\theta_1$ and $\theta_2$ set as $\pi_1(\theta_1)$ and $\pi_2
     
     <font color="red">*When you are making the plots, generate the data sequentially. That is, the way the data will be generated as Bernoulli outcomes 0 or 1 for each $y_i$ in a real experiment. For example, for $n = 1$, sample $y_1 = 0$ or $y_1 = 1$. For $n = 2$, sample $y_2 = 0$ or $y_2 = 1$ and add it to the existing $y_1$. For $n = 3$, sample $y_3 = 0$ or $y_3 = 1$ and add it to the existing $y_1$ and $y_2$. Keep doing that for a sequence of $n$ values, as $n$ gets very large, until you see a very discernible pattern in your plots.* </font>
 
-  
+
 ## Grading
 
-20 points.
   
